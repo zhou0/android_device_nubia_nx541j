@@ -1,4 +1,4 @@
-Elephone P9000 - LineageOS 13.0/AOSP
+Nubia NX541J - LineageOS 13.0/AOSP
 ==============
 
 This branch is device for building of the LineageOS 13.0 and Android Marshmallow 6.0 AOSP ROMs. For more information about building the ROM, read our [build manual](manual).
