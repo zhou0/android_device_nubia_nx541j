@@ -17,9 +17,9 @@ Component Type | Details
 -------:|:-------------------------
 CPU     | 2.0GHz Octa-Core MT6755 (Helio P10)
 GPU     | Mali-T860
-Memory  | 4GB RAM
+Memory  | 3GB RAM
 Shipped Android Version | 6.0
-Storage | 64GB
+Storage | 32GB/64GB 
 Battery | 5000 mAh
 Display | 5.5" 1920 x 1080 px DPI 480
 Rear Camera | 13MP (Sony IMX258 Exmor RS), Dual LED Flash, Laser autofocus
