@@ -7,9 +7,9 @@ This branch is device for building of the LineageOS 13.0 and Android Marshmallow
 
 # About Device
 
-![Elephone P9000](http://g03.a.alicdn.com/kf/HTB1.TsuKVXXXXanXXXXq6xXFXXX6/Official-Direct-Elephone-P9000-Helio-P10-MTK6755-2-0GHz-Octa-Core-4GB-RAM-32GB-ROM-5.jpg "Elephone P9000 in black")
+![Nubia N1 Dual SIM TD-LTE CN NX541J](https://oss.nubia.com/resources/images/N1/summary01.jpg "Nubia NX541J in gold color")
 
-Announced on 25th December 2015, the Elephone P9000 (codenamed _"P9000"_) is a flagship smartphone from Elephone. The P9000 now supports LineageOS 13.0!
+Announced in July 2016, the Nubia NX541J (codenamed _"NX541J"_) is a flagship smartphone from Nubia. The NX541J now supports LineageOS 13.0!
 
 ### Specifications
 
@@ -19,8 +19,8 @@ CPU     | 2.0GHz Octa-Core MT6755 (Helio P10)
 GPU     | Mali-T860
 Memory  | 4GB RAM
 Shipped Android Version | 6.0
-Storage | 32GB
-Battery | 3000 mAh
+Storage | 64GB
+Battery | 5000 mAh
 Display | 5.5" 1920 x 1080 px DPI 480
 Rear Camera | 13MP (Sony IMX258 Exmor RS), Dual LED Flash, Laser autofocus
 Front Camera | 8MP (OV)
