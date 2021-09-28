@@ -7,7 +7,7 @@ This branch is device for building of the LineageOS 13.0 and Android Marshmallow
 
 # About Device
 
-![Nubia N1 Dual SIM TD-LTE CN NX541J](https://oss.nubia.com/resources/images/N1/summary01.jpg "Nubia NX541J in gold color")
+![Nubia N1 Dual SIM TD-LTE CN NX541J](http://oss.nubia.com/resources/images/N1/n1-g.jpg "Nubia NX541J in gold color")
 
 Announced in July 2016, the Nubia NX541J (codenamed _"NX541J"_) is a flagship smartphone from Nubia. The NX541J now supports LineageOS 13.0!
 
