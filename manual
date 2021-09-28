@@ -13,8 +13,8 @@ After copy files from downloaded device in working_dir/device , and from downloa
 Open terminal and write:
 cd Working_dir
 After apply patches:
-sh device/elephone/p9000/patches/install.sh
+sh device/nubia/nx541j/patches/install.sh
 Write:
-. build/envsetup.sh && breakfast p9000
-mka otapackage p9000
+. build/envsetup.sh && breakfast nx541j
+mka otapackage nx541j
 Wait of finish, for me ~2hr
