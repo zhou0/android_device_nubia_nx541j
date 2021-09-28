@@ -15,8 +15,8 @@ Announced in July 2016, the Nubia NX541J (codenamed _"NX541J"_) is a flagship sm
 
 Component Type | Details
 -------:|:-------------------------
-CPU     | 2.0GHz Octa-Core MT6755 (Helio P10)
-GPU     | Mali-T860
+CPU     | MTK Helio P10 8 core ARM® Cortex™ A53 
+GPU     | ARM Mali-T860 image processor, 550MHz 
 Memory  | 3GB RAM
 Shipped Android Version | 6.0
 Storage | 32GB/64GB 
